@@ -1,0 +1,8 @@
+{
+    "port": 3003,
+    "webroot": "webroot",
+    "checkdir": [
+        "webroot"
+    ],
+    "host": "192.168.0.11"
+}

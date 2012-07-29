@@ -1,0 +1,10 @@
+{
+    "port": 3004,
+    "webroot": "webroot",
+    "checkdir": [
+        "webroot"
+    ],
+    "host": "localhost",
+    "remotehost": "localhost",
+    "remoteport": 3003
+}
